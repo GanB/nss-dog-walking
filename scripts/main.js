@@ -12,11 +12,11 @@ const applicationHTML = `
         <h2>Cities with Service</h2>
         ${CityList()}
     </section>
-    <section class="detail--column list details__cities">
+    <section class="detail--column list details__walkers">
         <h2>Walkers</h2>
         ${Walkers()}
     </section>
-    <section class="detail--column list details__cities">
+    <section class="detail--column list details__pets">
         <h2>Pets</h2>
         ${RegisteredPets()}
     </section>
